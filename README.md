@@ -45,11 +45,11 @@ The purpose of this project is gain insights on how different campaigns, specifi
 
 ## Data Visualization with Power BI
 - Create Measures OF
-  o Total Projects # Card
-  o Total Backers # Card
-  o Countries # Card
-  o Total Goals # Card
-  o Total Pledged # Card
+  - Total Projects # Card
+  - Total Backers # Card
+  - Countries # Card
+  - Total Goals # Card
+  - Total Pledged # Card
 - Total Projects by status # Column Chart
 - Total Pledged by country # Bar Chart
 - Total Projects by Launched Year # Stacked Area Chart
